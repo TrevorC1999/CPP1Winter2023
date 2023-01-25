@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 32852869}
   - component: {fileID: 32852870}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 34449134}
   - component: {fileID: 34449136}
   - component: {fileID: 34449135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -323,7 +323,7 @@ GameObject:
   m_Component:
   - component: {fileID: 125499981}
   - component: {fileID: 125499982}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -439,7 +439,7 @@ GameObject:
   m_Component:
   - component: {fileID: 371694612}
   - component: {fileID: 371694613}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 399744499}
   - component: {fileID: 399744500}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -590,7 +590,7 @@ GameObject:
   m_Component:
   - component: {fileID: 463451589}
   - component: {fileID: 463451590}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -648,7 +648,7 @@ GameObject:
   m_Component:
   - component: {fileID: 478245117}
   - component: {fileID: 478245118}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -849,7 +849,7 @@ GameObject:
   - component: {fileID: 649967667}
   - component: {fileID: 649967669}
   - component: {fileID: 649967668}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloud4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -921,7 +921,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 663177961}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -965,6 +965,8 @@ GameObject:
   - component: {fileID: 676219068}
   - component: {fileID: 676219067}
   - component: {fileID: 676219070}
+  - component: {fileID: 676219071}
+  - component: {fileID: 676219072}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -992,7 +994,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &676219068
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1031,8 +1033,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -604142911
+  m_SortingLayer: 1
   m_SortingOrder: 1
   m_Sprite: {fileID: 730906835, guid: 34dadf2cc14244e4d9b143d74b6cbcff, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1056,7 +1058,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1324563018}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1086,6 +1089,46 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.6, y: 1.12}
   m_EdgeRadius: 0
+--- !u!95 &676219071
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676219066}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9c06eda48d8f8024abe3dbd46efd1e67, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+--- !u!114 &676219072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676219066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dc6647c0e7ca7f48a9b0b2dc1d63658, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
+  jumpForce: 0
+  isGrounded: 0
+  groundCheck: {fileID: 1324563018}
+  isGroundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  groundCheckRadius: 0
 --- !u!1 &731422176
 GameObject:
   m_ObjectHideFlags: 0
@@ -1096,7 +1139,7 @@ GameObject:
   m_Component:
   - component: {fileID: 731422177}
   - component: {fileID: 731422178}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1155,7 +1198,7 @@ GameObject:
   - component: {fileID: 743285167}
   - component: {fileID: 743285169}
   - component: {fileID: 743285168}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1286,7 +1329,7 @@ GameObject:
   m_Component:
   - component: {fileID: 787681086}
   - component: {fileID: 787681087}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1345,7 +1388,7 @@ GameObject:
   - component: {fileID: 868904454}
   - component: {fileID: 868904456}
   - component: {fileID: 868904455}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1419,7 +1462,7 @@ GameObject:
   - component: {fileID: 935040591}
   - component: {fileID: 935040593}
   - component: {fileID: 935040592}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1528,7 +1571,7 @@ GameObject:
   - component: {fileID: 1010819897}
   - component: {fileID: 1010819899}
   - component: {fileID: 1010819898}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloud3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1601,7 +1644,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1070629446}
   - component: {fileID: 1070629447}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1660,7 +1703,7 @@ GameObject:
   - component: {fileID: 1097380792}
   - component: {fileID: 1097380794}
   - component: {fileID: 1097380793}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1734,7 +1777,7 @@ GameObject:
   - component: {fileID: 1175744026}
   - component: {fileID: 1175744028}
   - component: {fileID: 1175744027}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1808,7 +1851,7 @@ GameObject:
   - component: {fileID: 1228598225}
   - component: {fileID: 1228598227}
   - component: {fileID: 1228598226}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloud1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1881,7 +1924,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1254484600}
   - component: {fileID: 1254484601}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1929,6 +1972,37 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.77911377, y: 0.7847023}
   m_EdgeRadius: 0
+--- !u!1 &1324563017
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1324563018}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: GroundCheck
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1324563018
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1324563017}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 676219069}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1355313090
 GameObject:
   m_ObjectHideFlags: 0
@@ -1939,7 +2013,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1355313091}
   - component: {fileID: 1355313092}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1998,7 +2072,7 @@ GameObject:
   - component: {fileID: 1439323710}
   - component: {fileID: 1439323712}
   - component: {fileID: 1439323711}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloud2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2072,7 +2146,7 @@ GameObject:
   - component: {fileID: 1456192196}
   - component: {fileID: 1456192198}
   - component: {fileID: 1456192197}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2146,7 +2220,7 @@ GameObject:
   - component: {fileID: 1483635041}
   - component: {fileID: 1483635043}
   - component: {fileID: 1483635042}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JT5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2219,7 +2293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1638751987}
   - component: {fileID: 1638751988}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2361,7 +2435,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1987932821}
   - component: {fileID: 1987932822}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2419,7 +2493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2013230786}
   - component: {fileID: 2013230787}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2477,7 +2551,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2019368089}
   - component: {fileID: 2019368090}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2534,7 +2608,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2076878645}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2575,7 +2649,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2085116088}
   - component: {fileID: 2085116089}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2632,7 +2706,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2110094340}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: JumpThru
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2676,7 +2750,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2112602939}
   - component: {fileID: 2112602940}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2734,7 +2808,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2121036435}
   - component: {fileID: 2121036436}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2792,7 +2866,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2124607132}
   - component: {fileID: 2124607133}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Block3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
