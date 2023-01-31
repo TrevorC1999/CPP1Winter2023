@@ -54,6 +54,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        AnimatorClipInfo[] curPlayingClip = anim.GetCurrentAnimatorClipInfo(0);
         float hInput = Input.GetAxisRaw("Horizontal");
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
@@ -64,14 +65,28 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce);
         }
         
-        Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
-        rb.velocity = moveDirection;
+        //Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
+        //rb.velocity = moveDirection;
 
         anim.SetBool("isGrounded", isGrounded);
         anim.SetFloat("hInput", Mathf.Abs(hInput));
-        if (Input.GetButtonDown("Fire1"))
+
+        if (curPlayingClip.Length > 0)
         {
-            anim.SetTrigger("Fire");
+            if (Input.GetButtonDown("Fire1") && curPlayingClip[0].clip.name != "Fire")
+            {
+                anim.SetTrigger("Fire");
+            }
+            else if (curPlayingClip[0].clip.name == "Fire")
+            {
+                rb.velocity = Vector2.zero;
+            }
+            else
+            {
+               Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
+                rb.velocity = moveDirection;
+            }
+                
         }
 
         if (Input.GetKeyDown(KeyCode.UpArrow) && !isGrounded)
@@ -87,5 +102,52 @@ public class PlayerController : MonoBehaviour
         {
             sr.flipX = false;
         }
+
+        if (isGrounded)
+            rb.gravityScale = 1;
+    }
+
+    public void increaseGravity()
+    {
+        rb.gravityScale = 5;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Powerup"))
+        {
+            //Destroy(gameObject, 0);
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Powerup"))
+        {
+            //do something
+        }
+    }
+
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Powerup"))
+        {
+            //do something
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+
     }
 }
