@@ -19,6 +19,36 @@ public class PlayerController : MonoBehaviour
     public Transform groundCheck;
     public LayerMask isGroundLayer;
     public float groundCheckRadius;
+
+
+    Coroutine jumpForceChange;
+
+    public int maxLives = 5;
+    private int _lives = 3;
+
+    public int lives
+    {
+       get { return _lives; }
+       set
+        { _lives = value;
+            if (_lives > maxLives)
+            {
+                _lives = maxLives;
+                Debug.Log("Lives have been set to: " + _lives.ToString());
+            }
+        }
+    }
+
+    private int _score = 0;
+
+    public int score
+    {
+        get { return _score; }
+        set
+        { _score = value; }
+    }
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -112,28 +142,41 @@ public class PlayerController : MonoBehaviour
         rb.gravityScale = 5;
     }
 
+    public void StartJumpForceChange()
+    {
+        if (jumpForceChange == null)
+        {
+            jumpForceChange = StartCoroutine(JumpForceChange());
+        }
+        else
+        {
+            StopCoroutine(jumpForceChange);
+            jumpForceChange = null;
+            jumpForce /= 2;
+            jumpForceChange = StartCoroutine(JumpForceChange());
+        }
+    }
+    IEnumerator JumpForceChange()
+    {
+        jumpForce *= 2;
+        yield return new WaitForSeconds(5.0f);
+
+        jumpForce /= 2;
+        jumpForceChange = null;
+    }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Powerup"))
-        {
-            //Destroy(gameObject, 0);
-        }
+      
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Powerup"))
-        {
-            //do something
-        }
+       
     }
 
     private void OnTriggerStay2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Powerup"))
-        {
-            //do something
-        }
+      
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
