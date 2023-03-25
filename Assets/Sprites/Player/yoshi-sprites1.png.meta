@@ -1,0 +1,7955 @@
+fileFormatVersion: 2
+guid: dd4c71add845fae4da46513953d33501
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yoshi-sprites1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 774
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db8399fc0398e64b9966e1a27f6aa5a
+      internalID: 2021795196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 774
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e091c1eec641fc4da18450b1ae294d9
+      internalID: -66762978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85c1fbd7079bd94cb69f4ba498ee14f
+      internalID: -1719861258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Basic
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde7225b99ccea468df1723433e65da
+      internalID: -1100680544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1a65eaa6bdd6b43be6bb36e3a4b1e6
+      internalID: -1723588512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63dea02c579fef4a8e950df67428998
+      internalID: -1010893484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a69d144f68404693d42aaab1d29f7
+      internalID: -2051832599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Idle5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 774
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec910e591a78244833a96a9b1072c2
+      internalID: 116568578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Idle6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa456cb6b7a54147b5a9d920549d60f
+      internalID: 1752330695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Idle7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44299c92dedf48e4c9a259ce0fe1f1db
+      internalID: 1960393589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Idle8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 774
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a275d7aca4b5c534db8effa44bcfb54b
+      internalID: 1366856517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Idle9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 774
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313152f4b2f58a84eb219a86e741caba
+      internalID: 1036421780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 774
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fe9efe0afb924891e113d2d9b0dff
+      internalID: -1411686130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 774
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e222a13896266d842b75684afa6149f0
+      internalID: 1686905378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 774
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7d7e9a78a276149b92ec1d6c02a785
+      internalID: 1954630930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 774
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8047a1e58b45ea643a502b31b7b1c834
+      internalID: -849584788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 774
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373bd2aa70e88104eb33caca2a11d298
+      internalID: -1800802188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 774
+        width: 30
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05eff51f7b1e54090ac045ad3b20cc
+      internalID: -1257382548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 729
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc0cba1ff00b24d9d04c6636cdf019
+      internalID: -929818081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 729
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30552c372b1b95641b12f1db07acac33
+      internalID: 1215957200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 729
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f29f5e85c6154ba3b6bce963ecdd5
+      internalID: -887396286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 729
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66f3b45a280cf42bbb157371459e3a
+      internalID: 357494394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 729
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974629e964f1716468a1490784accedd
+      internalID: -1917034427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 729
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e370025b6f3e540946485a5b92d78c
+      internalID: -1389966677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 729
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb307f78c15c094b87adfde80b6324c
+      internalID: -669892203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 729
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e920302697cc409510e65fa05418a
+      internalID: -1938615052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 729
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d597d411c59f6344a0841cc42ba1ba8
+      internalID: -2106075543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 729
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3f9a8497b1284390dcde643f8208b
+      internalID: 428743016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 729
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927a04e45c0b3e4d954edefe56f53f7
+      internalID: 714351765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 729
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8041650542ca5499fdaf72e5339008
+      internalID: 1680860602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 729
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8088f65fe2ab64940b0d84fb0b9c36be
+      internalID: -1041259626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 729
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2c7c411292400449090c555d83926d
+      internalID: 399220271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 729
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4f7ed3539d7640961d154ffcbbbfe
+      internalID: 984193186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_33
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 729
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd32dec52f5724099085c79863710f
+      internalID: -238017519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 750
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9547078852458846b8ed91f6ef7c552
+      internalID: 899816771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 729
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12aa556e0c1d6245ae8da23570d90da
+      internalID: 624271132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_36
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 729
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92ac3f68b396ef43a42f979959ed957
+      internalID: -2091880684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_37
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 729
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21daea512021e7f42b2ae7dd1b35f441
+      internalID: -1308095613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_38
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 729
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71776aac832f3a04fa30c2278bbf38ff
+      internalID: -937009216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_39
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 729
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1989ca5c41a14fa1db4036e4514db
+      internalID: 1990580398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_40
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 729
+        width: 30
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ed4bf001154a549a88f281b9c03ca8
+      internalID: 144381570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 685
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac37c619d7a009a47bda28c6b05ae0c4
+      internalID: 1964747071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 685
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75abc0c4cfa5d7a4d88c5fc333bc1a61
+      internalID: 899776733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 685
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d3c471caa9a6429a6d480c50ecbb5
+      internalID: -210790471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 685
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c46d5dfe8caf274289ad6a248791b5f
+      internalID: 1513340143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Run0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 685
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cfc1fd1411e7a438ad28916bb17f99
+      internalID: -2143159751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Run1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 685
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d164f1fc61de54c8d1c9af099b072c
+      internalID: 1005646551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Run2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 685
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb2d68d615ad4f429651db6e3b12915
+      internalID: -1132157390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 685
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9610dbb690ce34bb2bcdd6dcda09e4
+      internalID: -1240533650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 685
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8f413fc95edea4f86ef96cef33ec6a
+      internalID: 50891922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 685
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d79fcee884e54da35aeae5f369e61
+      internalID: 341408357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 685
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184c195b8900e04791621c3353c647f
+      internalID: -2057723074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 685
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97dcdbf7c7cc0448bb12fc6183ecb46
+      internalID: 954908545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_53
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 685
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13eaa3e79db26f4bb32be7cb8feb6ff
+      internalID: -1702800321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_54
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 685
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c07e31173fbf34c8c0e0288e4e7b75
+      internalID: -173626899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_55
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 685
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322fa36dcb5bf1e4680be92e6c63cbe2
+      internalID: 1337023011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_56
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 685
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0594a8128861dc849a4c41f3f9468eee
+      internalID: -1264209726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_57
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 685
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39937138ef0fcb149913178e28a085c0
+      internalID: -1561402882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_58
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 685
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c225500edb30f748b74b9743114aea7
+      internalID: -1127956100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_59
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 685
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690bb013401ed6c42ae8800003f33a42
+      internalID: 607803776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 643
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f15546ecfba840ad03e18f3bbd2b5
+      internalID: 520867261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 643
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8cf24af2d8e7c4cab746bd3a19fd42
+      internalID: 498043810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 643
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27787b3a288ab498934ced5f10bfea
+      internalID: -866596479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 643
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3c52f8829590041ab3ed9dd3581f3a
+      internalID: 2060148877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 643
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b941eae4835eda4b888333c8dbac3a4
+      internalID: 1166921507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_65
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 643
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411ffe58ddab6ba4f9b456a1494e63cc
+      internalID: -1273709114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_66
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 643
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b603b91ca75b50143b73ffc9b965251c
+      internalID: 2084584865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 643
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfc3f0d2d60e5343b366edcad8d29b9
+      internalID: 207591204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 643
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08742ba4aaed63e4bb169bdfbdd0b245
+      internalID: -1713966178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 643
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1099f3c5700a4b04aac1cab05f0d1607
+      internalID: 1527540861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_70
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 643
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4d71610cdd13c43928ee535883f2f8
+      internalID: -983997288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_71
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 643
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48030891c01aa74c85b221368f9a120
+      internalID: -1902800040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_72
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 643
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb2e40998baa343b43dc08af531845
+      internalID: -1295944871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_73
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 643
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561c993a6a9b494d916a2f4f2917430
+      internalID: 1673812749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_74
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 643
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fab29de3ebd48449f8378e291af4ca
+      internalID: 397548248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_75
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 643
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24458f4d6ec7e2d4d9ec080c81e21d15
+      internalID: 78590789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Jump1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 599
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6fea9087d63b48b52fe925a07afe4
+      internalID: 513993477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Jump2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 599
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30719d4d02c79874d896745eab4c4751
+      internalID: 290815076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Jump3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 599
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eeebca73a7bb84fb9531ae42982a79
+      internalID: -1949203407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Jump4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 599
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690c1ca60c75d194b9b56b825c5227cb
+      internalID: 1836697340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 599
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e142f0ad772eaa4d8a8b7ac0f56b08b
+      internalID: -1754854327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_81
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 599
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce9a7677603fa4faddef23de520e7f
+      internalID: 1893624835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_82
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 601
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2b030a6eedb144297e4461dced5c84
+      internalID: -1950071131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 599
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52e50f6c95ee94c8bf584effab1c4e
+      internalID: 1715850610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_84
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 602
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bb26f35090aa242860c014ec5374f5
+      internalID: 1863863015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 599
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afd41ad4a443742bf9b7594b0a9b6e
+      internalID: 848430090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 599
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804319e230d7484e82c1f86b271def0
+      internalID: -320886094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 599
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa658f7188239143ad860b43a6ac8a3
+      internalID: -626889081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_88
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 599
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5734f4e0039dea49a26d42cf9554ae0
+      internalID: 639345422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_89
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 599
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00544faee244e04c867401812f949d7
+      internalID: 457868719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_90
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 599
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0abb6877f00b5a499e31f9cd9c227bc
+      internalID: -1113036272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_91
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 599
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5dd608b50a61e46acda9e39f6da705
+      internalID: 1142307979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_92
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 601
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff3c981cfcafa44b6c1b5582a97a03
+      internalID: -803494167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_93
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 599
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e7b8fd2521eb499fcb16975d2e8d5
+      internalID: 266123940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_94
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 602
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb762fb0fe3212e43af837cb0628b370
+      internalID: -1352716893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 557
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dee6699a36a774992887c3a008350f
+      internalID: 789525855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 557
+        width: 81
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43869799fbb0b8146b3fece29642319d
+      internalID: -855769668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_97
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 557
+        width: 73
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b640dc9235ee154bb4bbb8b0853a3f6
+      internalID: 1391987451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_98
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 557
+        width: 73
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aaf58344a4a9d40b2f8bc66f124212
+      internalID: 1650314142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_99
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 557
+        width: 73
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26543e67b47e55242a276d5d7bfa7656
+      internalID: 1401113444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_100
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 557
+        width: 73
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d01e21ba0784419df2fb227d8631e
+      internalID: -713373685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_101
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 557
+        width: 73
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49e7ff87ccbc0a40a3f28794f6537f1
+      internalID: 1172672921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_102
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 557
+        width: 73
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1bb28eadb647c4aa14173547164a07
+      internalID: -1713256036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_103
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 557
+        width: 73
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda987c33ebf4a3409c7e7219a2dccc2
+      internalID: 1011751881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 478
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d870d54df3faa46a203a18b31e7555
+      internalID: -723642031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 478
+        width: 26
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a2c121dfa41b44a2addba9383d1a8
+      internalID: 1457448392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 478
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bafe2f88ace8e45ae128f4622aed61
+      internalID: -1386980727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_107
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 478
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687cd01223d4454fb0f237c81b3057a
+      internalID: -1355186232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 478
+        width: 26
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e63b7bab878a43aba7c2b2cf99d37
+      internalID: -1294423708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Flutter1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 478
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba08b06dea7fd45acdeedc167bcd76
+      internalID: 1223693331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Flutter2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 478
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f1e14f500d9b478138b318d8d254d
+      internalID: -314905338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_111
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 478
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310eba3added3c74a90ab13eb1248073
+      internalID: 540520131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_112
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 478
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad28300432b88d419ee9ea4f88a9110
+      internalID: 332215555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 478
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed0b50cacb5044d887ed461c278f78
+      internalID: -2112243258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_114
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 478
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1fe18c3432e34eb65e58aabfcaafb
+      internalID: 1381459513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_115
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 478
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68eec03587f8246a5de956af0b9821
+      internalID: 577841332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_116
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 478
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59624976f426a43a2c94fbc28a67b9
+      internalID: -753421566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_117
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 478
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c0f221246932046a5fa9895ce3717d
+      internalID: -861452747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_118
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 478
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530f1b4a795771488adcade61172ab2
+      internalID: 909110702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_119
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 478
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5b5f74901bd740bcb3b0a5c53ef0b
+      internalID: -1778631580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 433
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f0a710b1c1049459af81ad74a60f8a
+      internalID: 850717427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_121
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 433
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53dc50f5b4b8bc45a46105db3843cf3
+      internalID: -1363335205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_122
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 433
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f548df80fe68d36489482be19cfbd15f
+      internalID: 490880205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_123
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 433
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf0f6795d4e2649b7e5dccd5f0c3a2
+      internalID: 514019909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_124
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 433
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc740adc2f5d264ca0c9407e1b835a4
+      internalID: -922762308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_125
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 433
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29012a28be249ab42bbecff1f8eb6247
+      internalID: 1645617596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_126
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 433
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62167f126aa5514e90897b0a997b4bd
+      internalID: -739063507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_127
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 436
+        width: 33
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1812ce0de59c61a4998998802f864fae
+      internalID: -1298521180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_128
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 433
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02635e83354605429cc66f761bd7dc4
+      internalID: 2127099829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_129
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 437
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36f049e4c91f54181d14a98d790e4c
+      internalID: -317098020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_130
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 433
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906338a52b3395468d21fb567f0859e
+      internalID: 561667672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Fire1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 433
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2122d7989890c8e4289452e00228e8c2
+      internalID: 1652204001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Fire2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 433
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40ec88b9713db47806914f57ba539d
+      internalID: 204784990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Fire3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 433
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4d4aaeae8c754a862ea43de315739
+      internalID: -221324495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Fire4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 433
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d74ad6f0c9724a86c45fa1f0587e4
+      internalID: -1158828917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_Fire5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 433
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f30daa3bc21a948b7f3c90aea9de8d
+      internalID: 1101486023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_136
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 440
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048e7ea4dbb9e94e9b583c8b651190d
+      internalID: -1246502955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_137
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 440
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4936e5f61d50e347a530d239b8d4222
+      internalID: 1521636414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_138
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 433
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9eb29c39133054b8eb2026a7c91530
+      internalID: 1444348624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_139
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 433
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de749d75d0c05b449ab65f37ba2607a7
+      internalID: 734890834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_140
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 433
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47846fd2df957c41995a40466d0e875
+      internalID: 82136747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_141
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 433
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc7d36d785833041a69a33525b47619
+      internalID: 319961968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_142
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 433
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413f3e79871c1d34c8f893b5fcc86975
+      internalID: -1261940465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_143
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 433
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddd185c14313ab44aa6b829ded62cb7
+      internalID: 10494216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_144
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 433
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43d974c8039e64d9e465ebd0569a22
+      internalID: -571260521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_145
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d228e0d034fef44fb398bd1ae0570f9
+      internalID: -221621302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def58b7fcb3391d4c8c669c231fdc640
+      internalID: 71004938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_147
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6950bd75aba6a49b9068726ec70f3b
+      internalID: 314492840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 384
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17a2128bd04514e9e589bcc38b955f
+      internalID: -1802414776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_149
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 384
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9ff994cbde91a4eaedcb96eb74eda1
+      internalID: -1639674455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_150
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 384
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5460ba93f1ca546bc22fbfb50c4698
+      internalID: -913409705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_151
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 384
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b94a84f2822ae48ac433ccd0c9a23e
+      internalID: 942144409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_152
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 384
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3078a080284b3344bc5b7469a39c3c8
+      internalID: 1925266996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_153
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 387
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e28225bc398884f83843a6a9b8fe80
+      internalID: -1803213738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_154
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 384
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e629c9db71784baa9e73a641a9b4e
+      internalID: -947854296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_155
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 384
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc96d2297aaeff45901ba7724b7905c
+      internalID: 1333102397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_156
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 384
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71430823cc90ca1419619a39b89da3cb
+      internalID: 1583296937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_157
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 384
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c6322dcfc6c8449e2f708f28cd88f
+      internalID: -373385186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_158
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 384
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed5079d959278940b3fccdcefcb03f4
+      internalID: -2027629886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_159
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 384
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc588b87fb595e439c7a8e8d6bb3ad9
+      internalID: 291000532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_160
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 370
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c7f079362455b4e8a0aed7189bb024
+      internalID: 1990152500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_161
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 370
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fab3a34dddd8340b3aac75561f9cd1
+      internalID: 1656010124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_162
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 370
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9446ec828b40746b89a6e0f117a7f3
+      internalID: -435470902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_163
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 370
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e917fb75ff5e3fd4db37a451525be03e
+      internalID: -1757985635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_GP1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 330
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cae63c9b7d973468a15e766151fd33
+      internalID: 1302303074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_GP2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 330
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ade265051adab44098124a36e8bcb66
+      internalID: 939433477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_GP3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 330
+        width: 22
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547b36b69a9e3740bd8f99335410d8e
+      internalID: -1880298777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_GP4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 333
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766aa331c024b744f84347d5a910d070
+      internalID: 2059864814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_GP5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 336
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625d1f048f8cde41b8e54d94feb67e8
+      internalID: 573025892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_GP6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 330
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c090e87ec994784c9a8932f6528ad54
+      internalID: 1391371945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi_GP7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 330
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a66840df6381f4b8ae2507421a3d00
+      internalID: -1206968572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_171
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 330
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444ac64b977edc41b913858346db0aa
+      internalID: -1360352409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_172
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 330
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e036889d9e86e2b478837d0ac74fd118
+      internalID: 182042552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_173
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 330
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1141658b6ad28b349890428cbd3c632f
+      internalID: 502261989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_174
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 330
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb9fd23f32efe740959fd3011be3ea3
+      internalID: -88066278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_175
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 330
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3078d64dfbc064ebc341d4b378e956
+      internalID: -640360747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_176
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 330
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ad1116c8390d742b56c7c972d71bce
+      internalID: 169061288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_177
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 330
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7724a9e0fefe9694f9070355cdab0c0a
+      internalID: -510316205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_178
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 330
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063cc7604eb7b90459018ad92f131c14
+      internalID: 1107928671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_179
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 330
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111b968d05c24446955901fe9983578
+      internalID: -1100188129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_180
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 330
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786e94b8ef3c4bf4e96b0c9830883b15
+      internalID: -1167927824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_181
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 330
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd83595f04b86b645965fe72797223f9
+      internalID: -362186814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_182
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 330
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590907b757a3784183aca9b09aa9803
+      internalID: 177846969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_183
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 330
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae12dc5be8459145820f667f09081ea
+      internalID: -1160322767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_184
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 330
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf907a661e5ffd419dc772b200fc637
+      internalID: -1973025320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_185
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 282
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21596fbccb3d2a47aae860b38b86772
+      internalID: 2006251255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_186
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 282
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2452c3f2a80cb429b151299bba573b
+      internalID: -504221401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_187
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 282
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31deb7842fd2bb04c8dae3a4584dbdb9
+      internalID: -1271154324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_188
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 282
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11150e14824f6ec4ea2d4560e9aadb9b
+      internalID: 1387062605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_189
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 282
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dedbb0eb28eb974f9b0214e43466f4b
+      internalID: 1595050727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_190
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 282
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae0bddd35a4f6d4abc040a6e575a449
+      internalID: 744645145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_191
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 289
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081de907e5ed9474db189c46aad5506b
+      internalID: 1773627541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_192
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 282
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd5ae98ae1b6648a55f3f8194bcb27
+      internalID: 25070123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_193
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 290
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a606492d4c0ce94ea016e038b40bde9
+      internalID: -91833880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_194
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 282
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f768968fde6e4f8a564eb9a010c96
+      internalID: 400956422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_195
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 282
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823f5f4a2443f584c815849fb2ad4843
+      internalID: -268487459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_196
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 282
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2245424bcea1b14189ed5b93877a7c7
+      internalID: 2069227591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_197
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 232
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe5972218bfa244a793307ed57698b
+      internalID: -1406747529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_198
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40fa9b70016394280a133326cbf923
+      internalID: -624563886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_199
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 232
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94879c9b0483cf4c821d6959c1dbf3d
+      internalID: -1499440057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_200
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 232
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e729d9030c68845bbca267cc904739
+      internalID: 1492088646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_201
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 232
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2192fbb9f965f4ea0c06003872b345
+      internalID: -357129194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_202
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 232
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202e6abb9fdbb34bbc9c9ae784cf931
+      internalID: 2080066990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_203
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 232
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed7b8bc2eef95a43b08b0c3ae8a7702
+      internalID: 1866133705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_204
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 232
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43858272561583e43b1dbf1408d41a41
+      internalID: 1812298598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_205
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 232
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be1d9cf5605ec4aab86e3486af4e66
+      internalID: 1642018275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_206
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 232
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81b339c55e5054c89fc3df9e421903
+      internalID: -502074919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_207
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 232
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726bad832a085194293f92a031aa00a6
+      internalID: 1591495352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_208
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 232
+        width: 24
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca813446647fba845bc9f49f0845e60c
+      internalID: 1223804507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_209
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 232
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317921a0c34da74392cc38495d0f597
+      internalID: 134930332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_210
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 226
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ea15e91a0fc243a391a82c05014fe
+      internalID: -684616507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_211
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 226
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bdf92d644e9247a6ddaa9b4b532a1
+      internalID: -334049523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_212
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 236
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef12a8c2be3b142aac2fa3ad29a88b
+      internalID: 1178227179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_213
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 236
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84e82a9e7b76a429865604592456f9
+      internalID: -2140608633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_214
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 235
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3cb06b64129ef46a9423fdc5865a75
+      internalID: -1154854079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_215
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 236
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b26a743995755f4f9d3fcea56b974b7
+      internalID: 1327426288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_216
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 239
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550bc909fd139314a983925172035bf2
+      internalID: -1553260773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_217
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 236
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfa70b425ea81488a42aef3b204b7c
+      internalID: 1048317845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_218
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 235
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4f9b20259afd47b4fabe013a05de3
+      internalID: 1235963575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_219
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 236
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7016abe663c91024b9a70fa3fbba2d59
+      internalID: 1085981781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_220
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 239
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8e977e0e398d47a3ea8abf9c75b7b
+      internalID: 508555515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_221
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f888b2cccc0c4eb6ca273ac33d7c6
+      internalID: -2045861378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_222
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e0f9a4aa28c904798c1736451fc89c
+      internalID: 1765700454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_223
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04399ae5d6180146921db5831b53379
+      internalID: 580508289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_224
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d689fed096615448d8566a399b139d
+      internalID: -1095534245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_225
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dbdc20216513e429f5ab729b9c4959
+      internalID: 339755570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_226
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d51d7e2926644bb5b2bf13030898a
+      internalID: 2068996614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_227
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ce0cc548f1064ca76eada8ed8a116
+      internalID: -474956797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_228
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823a9daf3826da48ad28a46e8da9296
+      internalID: 1168259049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_229
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 186
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd4e84f671a2cd4aa412857df1cfb54
+      internalID: -1651299098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_230
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 186
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b826892232bad42992c8b1da8d0e8a
+      internalID: 1839819153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_231
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 186
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1dab87413038e4196f76361b24e6d8
+      internalID: -3375498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_232
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 186
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2883ead9d780447a9a5d5600f95241
+      internalID: -1814717635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_233
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 186
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295eb6ddb1e963b4495854a84116baab
+      internalID: -348770815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_234
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f388e7410f362b1408186af1af81b4ad
+      internalID: -1270866111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_235
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 186
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b86b3f2baf0840873276f403cdbaf
+      internalID: 1676565202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_236
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 186
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63916a0daa97bfb46a281f84868f40a4
+      internalID: 231426386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_237
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 186
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7848925f58b04eb98f42a0a70cacc
+      internalID: 987652268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_238
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 186
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebdd9ff0e410c647b93ae1cdeebfbec
+      internalID: 430282219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_239
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 186
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951d976cb45f0843b45f58446f9af6f
+      internalID: -1515934167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_240
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 186
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2609b623f4a6c041bf07de64cc1e059
+      internalID: 632180692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_241
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f2a3a6ea21e34aaf1c5cba789641f
+      internalID: -709129993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_242
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 146
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b726f8fe8f5444bc80a1f065172ad
+      internalID: 1860879858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_243
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 146
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1d9621159f92a4b94c0a3ab48d567a
+      internalID: 655232446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_244
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 146
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdddd8cc9794f245a26ccc093637f7b
+      internalID: -738410657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_245
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 146
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29caf7ff1d9e2274585d0cba994b0498
+      internalID: -933374293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_246
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 146
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d16eb467e7444893dcc125cd4ad74
+      internalID: -90536784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_247
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 146
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a130700fa3b1c468f53edb3b7aef82
+      internalID: 458933743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_248
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 146
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81862ef3c7fd08e43beb4e1e26184eaa
+      internalID: -1651598087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_249
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 146
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2413f8ec64234ea25411ff5a331c3
+      internalID: 369772680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_250
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fdf32e7274c02428567781af427b9f
+      internalID: 753860221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_251
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 146
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef87640aa505b4e87fa0dbbb90b427
+      internalID: 1389023479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_252
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 146
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0963cb4df2484297bca216f894441
+      internalID: 237269403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_253
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 146
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ac69d9bba319489ce9d750e0e0c98
+      internalID: 1087505044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_254
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 146
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920a8a9860de6f42a9910390dfc0fbc
+      internalID: 1674629289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_255
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 146
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b0d8939d02cf4892d5567c078e454
+      internalID: -1788427222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_256
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 146
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490bb5a551a59464bb0e783518d1f7a4
+      internalID: -1578919761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_257
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 146
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355168521ab6c524291eae1c79ab7a2e
+      internalID: -1239928693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_258
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 146
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e3a8a84b492a48b1a6f25b15ed044
+      internalID: 441047712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_259
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 147
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dbfe975f1278649b18c20c43f074a0
+      internalID: -1677434423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_260
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 146
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b6e09711ce1e44a4f8659e4d700ec
+      internalID: 1885717352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_261
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 152
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786da9364ba00df48a7488ddfd82b2e5
+      internalID: 1387871696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_262
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 146
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595643d857b5249408b3c60ffb13263f
+      internalID: -1268380869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_263
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 146
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840f384ceea4d4949ba08f9006cb1351
+      internalID: 127769643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_264
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 146
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5333a14f993b734c9408fb683b54588
+      internalID: 455094264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_265
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 146
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a09ce75d236ab64f8c6eb1d7f47fb2a
+      internalID: -2069420509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_266
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38823841fe38b7249a365f172a7121e6
+      internalID: -55951697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_267
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce981e2689d8f4a8b1b5da099026fb
+      internalID: 373666156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_268
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49934f97450f2f34bb9b9b962f98eb1f
+      internalID: -759963043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_269
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 98
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3004cec1bce99da4f88836a7c6cadf5a
+      internalID: 583653819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_270
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 98
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e3470613d76a438fbe2799df365b9
+      internalID: -1685265970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_271
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 98
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c792ba000db8847b5b55175b9ce669
+      internalID: -745617032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_272
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 98
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b8fa68798dfc4ab46ab37547b19bb
+      internalID: -711963846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_273
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 98
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b796bb5d137c847a8a552ee5b3752b
+      internalID: 617109470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_274
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 98
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3b9b1392cdbb4fb6df75c1a518ce2
+      internalID: -1346037701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_275
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 98
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba123ce1bc942ac4da101533fb310fce
+      internalID: 2068200154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_276
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 98
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68aefe3d0d5f56468413ace982dfd5b
+      internalID: -219258749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_277
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 98
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36143dbfb55629847a8f903ce3a1a30a
+      internalID: 472584625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_278
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 98
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833916e58cbb2b4f9da4df75d13bcb8
+      internalID: 108175151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_279
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 98
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c80560157f348e479bf7751769fa473
+      internalID: -447683403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_280
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 105
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2591985b92fd2d14ea018e44c658f7c6
+      internalID: -954736231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_281
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 12
+        width: 107
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51bc67feffa1014e91bc5777b24130f
+      internalID: 1218524217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_282
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 106
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ea8feef71eebf4ea59945003ce6ab9
+      internalID: -255679205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_283
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb0bcf69114e764c840dd57d4a64f59
+      internalID: -927500373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_284
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cd3a98033226c45b1a1ea9ff635302
+      internalID: -1871464229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_285
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f11606580bda4aa1dd1a37a44cd58
+      internalID: -726041704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_286
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534a61862fd2f74ba65a0b1b5959fab
+      internalID: 1302003142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_287
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 50
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280ff4056b05dc45990ae51f412d5c1
+      internalID: -866651080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_288
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0979ded8c6e714140a48b7e5615e1e5d
+      internalID: -1344704854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_289
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845ed1481453a641bdaba183f39f07a
+      internalID: -130707547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_290
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b7776bea43ee41ba965c0482b1269
+      internalID: 212183547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_291
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 50
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548998991d80134daf8430a6706f397
+      internalID: -1485010593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_292
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 50
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd219a2085b3fbf4d89b8f1c0d1dd447
+      internalID: -186158898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_293
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 50
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b6aa15850b2746985f8de22aac67a
+      internalID: 1342464381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_294
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 50
+        width: 26
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea9c96625c0bc4282a60e70f90b336
+      internalID: -656165872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_295
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 55
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13cc6ca59383e84d8a37659744793fb
+      internalID: -1852419633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_296
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 54
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe99f516885c39e43990ea612011229c
+      internalID: -2015686898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_297
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 52
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f961e6bd74bf64c47b29fb9437dd1176
+      internalID: -640644572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_298
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb4d81592f1494cb0a37ab434f81fd
+      internalID: 696135576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_299
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 26
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d005c1e62131046bcdc0b50e5c90ed
+      internalID: 1598917179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_300
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 26
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d94e2bb92b370b45b987613465e8c59
+      internalID: 1810344391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_301
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 26
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c060ac2f815fc44c9f4f1146b731158
+      internalID: 1647435371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_302
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 26
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8ba79f8fcc9f4a98e1e16da4c73bc
+      internalID: 2017649149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_303
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 26
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df2a21c9628a514a815c0cce3ec1361
+      internalID: 1645077928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_304
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 26
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6270a497102eef64e980f3141462c3e9
+      internalID: 1593960920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_305
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 26
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08720904f76f3a842afe1034bffcf897
+      internalID: 409331430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_306
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 26
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e9aa02589d1dd4c9c89960388e6eb6
+      internalID: 1194827854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_307
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 24
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2711791e4294c4c9c98253afbf6dd4
+      internalID: -1973032659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_308
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 26
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da8cdfe81dccd47b975821f2551dd6
+      internalID: 1730937890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_309
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 26
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b923ec9b6ea33f4ca3b6eb18487a072
+      internalID: -840684385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_310
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 26
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0753fcb5c43e4fbde54ae27e1a03e
+      internalID: -619034425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_311
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 26
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c0c1ff405193640856327fd83fea9a
+      internalID: -933632148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_312
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 14
+        width: 28
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86173728b685ee747a3d76445752d22f
+      internalID: -1863523563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_313
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 15
+        width: 28
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2580e3d025f9ee14780770c21333347e
+      internalID: 497681314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_314
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccc8ed36a7656f45b4798819608d430
+      internalID: -1904562868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_315
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc456ae17d630347a14731b84125ece
+      internalID: 1834496732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_316
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30462881c368fe04fa711ba9f1eaff8d
+      internalID: -1100755153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_317
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94863158d99e64f81fc3a2d2172aeb
+      internalID: -366983989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_318
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd59642fb076a46bfae1123ad89f9c
+      internalID: -609575611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_319
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06672a0732b191448478df694ed667f
+      internalID: -84710536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_320
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392833df3e6352343a1b5be8cf961bb0
+      internalID: -1096631289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_321
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 7
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942b660c8dc88044398bc033517ffadb
+      internalID: -410192569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_322
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff681e4ffda4c14da75e4ed04758ae1
+      internalID: 870367135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_323
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 7
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788a18532af30d4f9c15076991b958f
+      internalID: 183854172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_324
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 7
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f722cd3380656e4baeae0ada04abac6
+      internalID: -2054226170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_325
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b55d0afc1babe4987c3485df07b3df
+      internalID: 1466688029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_326
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0265854460b3d8644b57f95383e7c816
+      internalID: 2044992554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_327
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e6bf556318524a95a3800170cbe2e
+      internalID: 1677473723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_328
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79b46e0681ca064eaa711741da7825d
+      internalID: -1568375897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_329
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189d7c5e1e4c2d449cd0dce7e2a9e9d
+      internalID: 1566380777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_330
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff8f06daacd4341a522850d4f1be2f
+      internalID: -1742934244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_331
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb7fed1c21d2346bbd70dc98b715b7
+      internalID: 1336548327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_332
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 7
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f056f34126e62da4e8b9615a3926430b
+      internalID: -382100396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_333
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 7
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405520c73f4af2a4a8316f0d265d4389
+      internalID: -1374812353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_334
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc71494073e1e447ac5622c5d1ba3f1
+      internalID: -167646876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_335
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c307558de42dca40b34426588353701
+      internalID: 1161988478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_336
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d39b8b72be825a428f1bf9d0083e508
+      internalID: 72322011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_337
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 7
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8dd6a58bd2b64ea631e28a30ee928
+      internalID: -1618937275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_338
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e779325959dc7479ccf16071ae36f7
+      internalID: -1116483815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_339
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ac82de9e0deb40a3b9952bb5e537a
+      internalID: 1295589930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_340
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b6441ae4043134e89cb9216ca01b48
+      internalID: -186404392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_341
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbfffa95402b2840b1f24f8c3aaa120
+      internalID: -997358158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_342
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d48bfb3cf9b79489f1536491cad6dd
+      internalID: -2121596285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_343
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d06f64ac80a5479305e7b932cdc55
+      internalID: 1691996767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_344
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d12632214e5940a62561bfa079d6f
+      internalID: 1070742947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_345
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 7
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604ddddb8fb6ba40bde7ee0f63adc8a
+      internalID: 1862821807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_346
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c68511d89cf84a925e4e842c63522
+      internalID: 2126679086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_347
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27062341a5e28042b4595d6971105ab
+      internalID: 1745916107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_348
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 7
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b9dd30ef6e721409f0a69308a02eab
+      internalID: 969713968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_349
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb41b5fc3d2d548bc6c7cc038f9a3b
+      internalID: -1890869786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_350
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7c4504a818304e9c43963541f4809
+      internalID: 1540378855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_351
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb372011e36e9a4180b008c91a9bc03
+      internalID: 522991375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_352
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d811433998f34ca4b24e1c52268ec
+      internalID: 1218271143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_353
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf53579cba6e074e94724fde3448fd4
+      internalID: 794111697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_354
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fce9e55f34cc3488260f2d153abb63
+      internalID: -1177189474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi-sprites1_355
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2355b3ae855cf014f965a51a1b7e81e4
+      internalID: 1303296896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yoshi-sprites1_2: -1719861258
+      yoshi-sprites1_319: -84710536
+      yoshi-sprites1_353: 794111697
+      yoshi-sprites1_74: 397548248
+      yoshi-sprites1_232: -1814717635
+      yoshi-sprites1_53: -1702800321
+      yoshi-sprites1_321: -410192569
+      yoshi-sprites1_24: -669892203
+      yoshi-sprites1_346: 2126679086
+      yoshi-sprites1_158: -2027629886
+      yoshi-sprites1_12: -1411686130
+      yoshi-sprites1_102: -1713256036
+      yoshi-sprites1_139: 734890834
+      yoshi-sprites1_330: -1742934244
+      yoshi-sprites1_257: -1239928693
+      yoshi-sprites1_160: 1990152500
+      yoshi-sprites1_218: 1235963575
+      yoshi-sprites1_35: 624271132
+      yoshi-sprites1_81: 1893624835
+      yoshi-sprites1_343: 1691996767
+      yoshi-sprites1_80: -1754854327
+      yoshi-sprites1_124: -922762308
+      Yoshi_Fire4: -1158828917
+      yoshi-sprites1_97: 1391987451
+      yoshi-sprites1_171: -1360352409
+      yoshi-sprites1_41: 1964747071
+      yoshi-sprites1_114: 1381459513
+      yoshi-sprites1_18: -929818081
+      yoshi-sprites1_22: -1917034427
+      yoshi-sprites1_193: -91833880
+      yoshi-sprites1_107: -1355186232
+      yoshi-sprites1_153: -1803213738
+      yoshi-sprites1_105: 1457448392
+      yoshi-sprites1_63: 2060148877
+      yoshi-sprites1_183: -1160322767
+      yoshi-sprites1_66: 2084584865
+      yoshi-sprites1_236: 231426386
+      yoshi-sprites1_145: -221621302
+      yoshi-sprites1_227: -474956797
+      yoshi-sprites1_337: -1618937275
+      yoshi-sprites1_261: 1387871696
+      yoshi-sprites1_331: 1336548327
+      yoshi-sprites1_332: -382100396
+      yoshi-sprites1_314: -1904562868
+      yoshi-sprites1_39: 1990580398
+      yoshi-sprites1_163: -1757985635
+      yoshi-sprites1_82: -1950071131
+      Yoshi_Idle7: 1960393589
+      yoshi-sprites1_113: -2112243258
+      yoshi-sprites1_56: -1264209726
+      yoshi-sprites1_152: 1925266996
+      yoshi-sprites1_17: -1257382548
+      yoshi-sprites1_302: 2017649149
+      yoshi-sprites1_282: -255679205
+      Yoshi_Fire5: 1101486023
+      yoshi-sprites1_181: -362186814
+      yoshi-sprites1_231: -3375498
+      yoshi-sprites1_54: -173626899
+      yoshi-sprites1_6: -2051832599
+      yoshi-sprites1_326: 2044992554
+      Yoshi_GP1: 1302303074
+      yoshi-sprites1_203: 1866133705
+      yoshi-sprites1_293: 1342464381
+      Yoshi_Run0: -2143159751
+      yoshi-sprites1_295: -1852419633
+      yoshi-sprites1_201: -357129194
+      yoshi-sprites1_72: -1295944871
+      yoshi-sprites1_159: 291000532
+      yoshi-sprites1_290: 212183547
+      yoshi-sprites1_205: 1642018275
+      yoshi-sprites1_190: 744645145
+      Yoshi_Idle6: 1752330695
+      yoshi-sprites1_14: 1954630930
+      yoshi-sprites1_258: 441047712
+      yoshi-sprites1_209: 134930332
+      yoshi-sprites1_327: 1677473723
+      yoshi-sprites1_108: -1294423708
+      yoshi-sprites1_182: 177846969
+      yoshi-sprites1_191: 1773627541
+      yoshi-sprites1_263: 127769643
+      yoshi-sprites1_297: -640644572
+      yoshi-sprites1_157: -373385186
+      yoshi-sprites1_238: 430282219
+      yoshi-sprites1_219: 1085981781
+      yoshi-sprites1_0: 2021795196
+      yoshi-sprites1_83: 1715850610
+      yoshi-sprites1_96: -855769668
+      Yoshi_Idle5: 116568578
+      yoshi-sprites1_57: -1561402882
+      yoshi-sprites1_312: -1863523563
+      Yoshi_Run1: 1005646551
+      yoshi-sprites1_281: 1218524217
+      yoshi-sprites1_98: 1650314142
+      yoshi-sprites1_26: -2106075543
+      yoshi-sprites1_285: -726041704
+      yoshi-sprites1_48: -1240533650
+      yoshi-sprites1_323: 183854172
+      yoshi-sprites1_235: 1676565202
+      Yoshi_Fire2: 204784990
+      yoshi-sprites1_352: 1218271143
+      yoshi-sprites1_309: -840684385
+      yoshi-sprites1_212: 1178227179
+      yoshi-sprites1_240: 632180692
+      Yoshi_GP2: 939433477
+      yoshi-sprites1_59: 607803776
+      yoshi-sprites1_141: 319961968
+      yoshi-sprites1_144: -571260521
+      yoshi-sprites1_28: 714351765
+      yoshi-sprites1_300: 1810344391
+      yoshi-sprites1_223: 580508289
+      yoshi-sprites1_184: -1973025320
+      yoshi-sprites1_176: 169061288
+      yoshi-sprites1_210: -684616507
+      yoshi-sprites1_36: -2091880684
+      yoshi-sprites1_33: -238017519
+      yoshi-sprites1_89: 457868719
+      yoshi-sprites1_156: 1583296937
+      yoshi-sprites1_267: 373666156
+      yoshi-sprites1_266: -55951697
+      yoshi-sprites1_138: 1444348624
+      yoshi-sprites1_100: -713373685
+      yoshi-sprites1_286: 1302003142
+      yoshi-sprites1_284: -1871464229
+      yoshi-sprites1_177: -510316205
+      yoshi-sprites1_333: -1374812353
+      yoshi-sprites1_291: -1485010593
+      yoshi-sprites1_228: 1168259049
+      yoshi-sprites1_245: -933374293
+      yoshi-sprites1_15: -849584788
+      yoshi-sprites1_175: -640360747
+      yoshi-sprites1_213: -2140608633
+      yoshi-sprites1_136: -1246502955
+      yoshi-sprites1_217: 1048317845
+      yoshi-sprites1_192: 25070123
+      yoshi-sprites1_294: -656165872
+      yoshi-sprites1_296: -2015686898
+      yoshi-sprites1_37: -1308095613
+      yoshi-sprites1_151: 942144409
+      yoshi-sprites1_268: -759963043
+      yoshi-sprites1_64: 1166921507
+      yoshi-sprites1_305: 409331430
+      yoshi-sprites1_270: -1685265970
+      yoshi-sprites1_140: 82136747
+      yoshi-sprites1_351: 522991375
+      yoshi-sprites1_221: -2045861378
+      yoshi-sprites1_336: 72322011
+      yoshi-sprites1_224: -1095534245
+      yoshi-sprites1_38: -937009216
+      yoshi-sprites1_207: 1591495352
+      yoshi-sprites1_289: -130707547
+      yoshi-sprites1_299: 1598917179
+      yoshi-sprites1_60: 520867261
+      yoshi-sprites1_111: 540520131
+      yoshi-sprites1_119: -1778631580
+      yoshi-sprites1_94: -1352716893
+      yoshi-sprites1_195: -268487459
+      yoshi-sprites1_196: 2069227591
+      yoshi-sprites1_95: 789525855
+      yoshi-sprites1_313: 497681314
+      yoshi-sprites1_21: 357494394
+      yoshi-sprites1_316: -1100755153
+      yoshi-sprites1_128: 2127099829
+      yoshi-sprites1_280: -954736231
+      yoshi-sprites1_259: -1677434423
+      yoshi-sprites1_276: -219258749
+      yoshi-sprites1_116: -753421566
+      yoshi-sprites1_180: -1167927824
+      yoshi-sprites1_233: -348770815
+      yoshi-sprites1_292: -186158898
+      yoshi-sprites1_229: -1651299098
+      yoshi-sprites1_29: 1680860602
+      yoshi-sprites1_226: 2068996614
+      yoshi-sprites1_122: 490880205
+      yoshi-sprites1_239: -1515934167
+      yoshi-sprites1_271: -745617032
+      yoshi-sprites1_73: 1673812749
+      yoshi-sprites1_123: 514019909
+      yoshi-sprites1_25: -1938615052
+      yoshi-sprites1_247: 458933743
+      yoshi-sprites1_308: 1730937890
+      yoshi-sprites1_88: 639345422
+      yoshi-sprites1_68: -1713966178
+      yoshi-sprites1_125: 1645617596
+      yoshi-sprites1_32: 984193186
+      yoshi-sprites1_317: -366983989
+      yoshi-sprites1_216: -1553260773
+      yoshi-sprites1_106: -1386980727
+      yoshi-sprites1_155: 1333102397
+      yoshi-sprites1_115: 577841332
+      yoshi-sprites1_272: -711963846
+      yoshi-sprites1_222: 1765700454
+      yoshi-sprites1_103: 1011751881
+      yoshi-sprites1_253: 1087505044
+      yoshi-sprites1_339: 1295589930
+      Yoshi_Fire1: 1652204001
+      yoshi-sprites1_58: -1127956100
+      yoshi-sprites1_340: -186404392
+      yoshi-sprites1_154: -947854296
+      yoshi-sprites1_186: -504221401
+      yoshi-sprites1_65: -1273709114
+      yoshi-sprites1_34: 899816771
+      yoshi-sprites1_310: -619034425
+      yoshi-sprites1_188: 1387062605
+      yoshi-sprites1_230: 1839819153
+      yoshi-sprites1_243: 655232446
+      yoshi-sprites1_142: -1261940465
+      yoshi-sprites1_350: 1540378855
+      yoshi-sprites1_85: 848430090
+      yoshi-sprites1_225: 339755570
+      yoshi-sprites1_265: -2069420509
+      yoshi-sprites1_62: -866596479
+      yoshi-sprites1_43: -210790471
+      yoshi-sprites1_50: 341408357
+      yoshi-sprites1_148: -1802414776
+      yoshi-sprites1_204: 1812298598
+      yoshi-sprites1_322: 870367135
+      yoshi-sprites1_234: -1270866111
+      yoshi-sprites1_241: -709129993
+      yoshi-sprites1_325: 1466688029
+      yoshi-sprites1_275: 2068200154
+      Yoshi_Run2: -1132157390
+      yoshi-sprites1_90: -1113036272
+      yoshi-sprites1_342: -2121596285
+      yoshi-sprites1_277: 472584625
+      yoshi-sprites1_126: -739063507
+      yoshi-sprites1_338: -1116483815
+      yoshi-sprites1_86: -320886094
+      yoshi-sprites1_67: 207591204
+      yoshi-sprites1_215: 1327426288
+      yoshi-sprites1_334: -167646876
+      yoshi-sprites1_179: -1100188129
+      yoshi-sprites1_237: 987652268
+      Yoshi_GP5: 573025892
+      yoshi-sprites1_117: -861452747
+      yoshi-sprites1_318: -609575611
+      yoshi-sprites1_120: 850717427
+      yoshi-sprites1_31: 399220271
+      yoshi-sprites1_220: 508555515
+      yoshi-sprites1_301: 1647435371
+      Yoshi_GP6: 1391371945
+      yoshi-sprites1_4: -1723588512
+      yoshi-sprites1_121: -1363335205
+      yoshi-sprites1_19: 1215957200
+      yoshi-sprites1_264: 455094264
+      yoshi-sprites1_52: 954908545
+      yoshi-sprites1_174: -88066278
+      yoshi-sprites1_112: 332215555
+      Yoshi_Jump1: 513993477
+      yoshi-sprites1_75: 78590789
+      Yoshi_GP3: -1880298777
+      yoshi-sprites1_311: -933632148
+      yoshi-sprites1_328: -1568375897
+      yoshi-sprites1_274: -1346037701
+      yoshi-sprites1_250: 753860221
+      yoshi-sprites1_194: 400956422
+      yoshi-sprites1_242: 1860879858
+      yoshi-sprites1_42: 899776733
+      yoshi-sprites1_354: -1177189474
+      yoshi-sprites1_137: 1521636414
+      yoshi-sprites1_269: 583653819
+      yoshi-sprites1_5: -1010893484
+      yoshi-sprites1_262: -1268380869
+      yoshi-sprites1_283: -927500373
+      yoshi-sprites1_44: 1513340143
+      yoshi-sprites1_71: -1902800040
+      yoshi-sprites1_13: 1686905378
+      yoshi-sprites1_303: 1645077928
+      yoshi-sprites1_287: -866651080
+      yoshi-sprites1_40: 144381570
+      yoshi-sprites1_307: -1973032659
+      yoshi-sprites1_329: 1566380777
+      yoshi-sprites1_315: 1834496732
+      yoshi-sprites1_23: -1389966677
+      yoshi-sprites1_70: -983997288
+      Yoshi_Flutter2: -314905338
+      yoshi-sprites1_320: -1096631289
+      yoshi-sprites1_161: 1656010124
+      yoshi-sprites1_187: -1271154324
+      Yoshi_Idle9: 1036421780
+      yoshi-sprites1_146: 71004938
+      yoshi-sprites1_249: 369772680
+      yoshi-sprites1_349: -1890869786
+      Yoshi_GP7: -1206968572
+      yoshi-sprites1_278: 108175151
+      yoshi-sprites1_252: 237269403
+      Yoshi_Fire3: -221324495
+      yoshi-sprites1_92: -803494167
+      Yoshi_Idle8: 1366856517
+      yoshi-sprites1_69: 1527540861
+      yoshi-sprites1_127: -1298521180
+      yoshi-sprites1_345: 1862821807
+      yoshi-sprites1_118: 909110702
+      yoshi-sprites1_251: 1389023479
+      Yoshi_Jump2: 290815076
+      yoshi-sprites1_49: 50891922
+      yoshi-sprites1_61: 498043810
+      yoshi-sprites1_173: 502261989
+      Yoshi_Basic: -1100680544
+      yoshi-sprites1_178: 1107928671
+      yoshi-sprites1_87: -626889081
+      yoshi-sprites1_202: 2080066990
+      yoshi-sprites1_256: -1578919761
+      yoshi-sprites1_211: -334049523
+      yoshi-sprites1_104: -723642031
+      yoshi-sprites1_335: 1161988478
+      yoshi-sprites1_244: -738410657
+      yoshi-sprites1_150: -913409705
+      yoshi-sprites1_279: -447683403
+      yoshi-sprites1_51: -2057723074
+      yoshi-sprites1_91: 1142307979
+      yoshi-sprites1_347: 1745916107
+      yoshi-sprites1_248: -1651598087
+      yoshi-sprites1_27: 428743016
+      yoshi-sprites1_162: -435470902
+      yoshi-sprites1_1: -66762978
+      yoshi-sprites1_197: -1406747529
+      yoshi-sprites1_200: 1492088646
+      yoshi-sprites1_185: 2006251255
+      yoshi-sprites1_214: -1154854079
+      Yoshi_Jump3: -1949203407
+      yoshi-sprites1_55: 1337023011
+      yoshi-sprites1_304: 1593960920
+      yoshi-sprites1_130: 561667672
+      yoshi-sprites1_206: -502074919
+      yoshi-sprites1_324: -2054226170
+      yoshi-sprites1_260: 1885717352
+      yoshi-sprites1_341: -997358158
+      yoshi-sprites1_306: 1194827854
+      Yoshi_GP4: 2059864814
+      yoshi-sprites1_101: 1172672921
+      yoshi-sprites1_99: 1401113444
+      Yoshi_Flutter1: 1223693331
+      yoshi-sprites1_246: -90536784
+      yoshi-sprites1_255: -1788427222
+      yoshi-sprites1_198: -624563886
+      yoshi-sprites1_189: 1595050727
+      yoshi-sprites1_20: -887396286
+      yoshi-sprites1_254: 1674629289
+      yoshi-sprites1_149: -1639674455
+      yoshi-sprites1_298: 696135576
+      yoshi-sprites1_147: 314492840
+      yoshi-sprites1_208: 1223804507
+      yoshi-sprites1_16: -1800802188
+      yoshi-sprites1_84: 1863863015
+      yoshi-sprites1_129: -317098020
+      yoshi-sprites1_143: 10494216
+      yoshi-sprites1_348: 969713968
+      yoshi-sprites1_172: 182042552
+      Yoshi_Jump4: 1836697340
+      yoshi-sprites1_199: -1499440057
+      yoshi-sprites1_273: 617109470
+      yoshi-sprites1_288: -1344704854
+      yoshi-sprites1_344: 1070742947
+      yoshi-sprites1_93: 266123940
+      yoshi-sprites1_355: 1303296896
+      yoshi-sprites1_30: -1041259626
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
