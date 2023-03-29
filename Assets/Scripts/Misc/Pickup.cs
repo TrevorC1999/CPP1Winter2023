@@ -24,14 +24,14 @@ public class Pickup : MonoBehaviour
                     temp.StartJumpForceChange();
                     break;
                 case Pickuptype.Life:
-                    temp.lives++;
+                    GameManager.instance.lives++;
                     Debug.Log("You gained a life");
                     
                     break;
 
                 case Pickuptype.Score:
-                    temp.score++;
-                    Debug.Log("Current Score: " + temp.score);
+                    GameManager.instance.score++;
+                    Debug.Log("Current Score: " + GameManager.instance.score);
                     break;
             }
 

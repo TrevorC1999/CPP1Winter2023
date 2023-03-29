@@ -23,31 +23,9 @@ public class PlayerController : MonoBehaviour
 
     Coroutine jumpForceChange;
 
-    public int maxLives = 5;
-    private int _lives = 3;
+    
 
-    public int lives
-    {
-       get { return _lives; }
-       set
-        { _lives = value;
-            if (_lives > maxLives)
-            {
-                _lives = maxLives;
-                Debug.Log("Lives have been set to: " + _lives.ToString());
-            }
-        }
-    }
-
-    private int _score = 0;
-
-    public int score
-    {
-        get { return _score; }
-        set
-        { _score = value; }
-    }
-
+   
 
     // Start is called before the first frame update
     void Start()
